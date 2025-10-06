@@ -13,8 +13,8 @@ There is **no separate report** for this task.
 
 👉 Two PDF guides will be provided:
 
-- [First Year PDF](./Task1-Cpp/task2_first_year.pdf) → C++ basics  
-- [Second Year PDF](./Task1-Cpp/task2_second_year.pdf) → Slightly advanced C++ concepts  
+- [First Year PDF](task2_first_year.pdf) → C++ basics  
+- [Second Year PDF](task2_second_year.pdf) → Slightly advanced C++ concepts  
 
 Follow the respective PDF as per your year.
 
@@ -47,11 +47,11 @@ YourRepoName/
 
 ## 📚 Learning Resources
 
-* [Official Python Documentation](https://docs.python.org/3/)
-* [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-* [Python Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&feature=shared)
+* [Cpp Documentation](https://en.cppreference.com/w/)
+* [W3Schools Cpp Tutorial](https://www.w3schools.com/cpp/)
+* [Cpp Tutorials](https://youtu.be/18c3MTX0PK0?si=_ColFzp7ajsOQcZW)
 
 ---
 
-📌 **Deadline:**  **13rd october, 11:59 pm**
+📌 **Deadline:**  **13th october, 11:59 pm**
 
