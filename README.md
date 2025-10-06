@@ -22,7 +22,7 @@ Follow the respective PDF as per your year.
 
 ## 🛠️ What You Have to Do  
 
-1. Write the required Python programs as instructed in the PDF.  
+1. Write the required Cpp programs as instructed in the PDF.  
 2. Push your code to your private repository in the **RoboManipal2025** organization.  
 3. Follow the folder structure rule:  
 
@@ -32,12 +32,14 @@ YourRepoName/
 ├── Task0/
 │   └── (files for Task 0)
 ├── Task1/
-│   ├── program1.py
-│   ├── program2.py
+│   └── (files for Task 1)
+├── Task2/
+│   ├── program1.cpp
+│   ├── program2.cpp
 │   └── ...
 
 ````
 
-- Keep all Task 1 related files inside the `Task1` folder.  
-- Name your `.py` files meaningfully (e.g., `factorial.py`, `fibonacci.py`).  
+- Keep all Task 2 related files inside the `Task2` folder.  
+- Name your `.cpp` files meaningfully (e.g., `Isprime.cpp`, `Palindrome.cpp`).  
 
