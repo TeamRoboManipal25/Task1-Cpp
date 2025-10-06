@@ -1,4 +1,4 @@
-# Task 2 - Cpp
+# Task 2 - C++
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="150"/>
@@ -22,7 +22,7 @@ Follow the respective PDF as per your year.
 
 ## 🛠️ What You Have to Do  
 
-1. Write the required Cpp programs as instructed in the PDF.  
+1. Write the required C++ programs as instructed in the PDF.  
 2. Push your code to your private repository in the **RoboManipal2025** organization.  
 3. Follow the folder structure rule:  
 
