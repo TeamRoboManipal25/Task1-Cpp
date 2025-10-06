@@ -41,5 +41,17 @@ YourRepoName/
 ````
 
 - Keep all Task 2 related files inside the `Task2` folder.  
-- Name your `.cpp` files meaningfully (e.g., `Isprime.cpp`, `Palindrome.cpp`).  
+- Name your `.cpp` files meaningfully (e.g., `Isprime.cpp`, `Palindrome.cpp`).
+
+---
+
+## 📚 Learning Resources
+
+* [Official Python Documentation](https://docs.python.org/3/)
+* [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+* [Python Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&feature=shared)
+
+---
+
+📌 **Deadline:**  **13rd october, 11:59 pm**
 
